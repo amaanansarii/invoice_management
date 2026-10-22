@@ -1,0 +1,9 @@
+{
+  "name": "Naeem Service Centre Invoice Maker",
+  "short_name": "Naeem Invoice",
+  "description": "Create and share service invoices",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#172554"
+}
